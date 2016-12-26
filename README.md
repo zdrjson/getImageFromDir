@@ -1,0 +1,2 @@
+# getImageFromDir
+getImageFromDir with python
